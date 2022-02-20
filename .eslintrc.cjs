@@ -123,7 +123,6 @@ module.exports = {
             1
         ],
         "new-parens": "error",
-        "no-bitwise": "error",
         "no-caller": "error",
         "no-cond-assign": "error",
         "no-console": "off",
